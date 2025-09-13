@@ -1,10 +1,6 @@
 # Automated-Log-Synchronization-Script
 This repository contains a lightweight yet powerful Bash script designed to automate the management and synchronization of application logs. The script was developed to solve a common operational challenge: ensuring local development and production logs are regularly processed for errors and securely backed up to a central server.
 
-# 🛠️ Automated Log Synchronization Script
-
-This repository contains a lightweight yet powerful Bash script designed to automate the management and synchronization of application logs. It solves a common operational challenge: ensuring local development and production logs are regularly scanned for errors and securely backed up to a central server.
-
 ---
 
 ## 🚀 Features
