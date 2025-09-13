@@ -98,6 +98,6 @@ find_and_count_critical_errors () {
 
 setup_local_logs
 analyze_for_errors logs/prod
-send_report_to_server ubuntu 34.226.190.18 ~/Downloads/ec2_key_value_pair.pem error_report.txt
-sync_all_logs ubuntu 34.226.190.18 ~/Downloads/ec2_key_value_pair.pem 
+send_report_to_server ubuntu <remote-server-ip> ~/Downloads/ec2_key_value_pair.pem error_report.txt
+sync_all_logs ubuntu <remote-server-ip> ~/Downloads/ec2_key_value_pair.pem 
 find_and_count_critical_errors error_report.txt
