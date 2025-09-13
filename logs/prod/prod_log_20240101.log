@@ -1,0 +1,7 @@
+INFO: Starting backup process at 2024-01-01 01:00:00
+INFO: Connected to backup target server
+WARNING: Backup size exceeded expected limit (4.2 GB)
+ERROR: Connection refused to database server at 192.168.10.5
+INFO: Backup task retry initiated
+CRITICAL FAILURE: Backup process aborted unexpectedly at 2024-01-01 01:07:12
+DEBUG: Cleanup routine executed post-failure

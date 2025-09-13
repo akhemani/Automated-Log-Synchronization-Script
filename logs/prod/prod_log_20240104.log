@@ -1,0 +1,6 @@
+INFO: Data export process initiated at 2024-01-04 04:00:00
+INFO: Exported 1,203,000 rows from table transactions
+WARNING: Export took longer than expected (1.5 mins)
+ERROR: Data integrity check failed on table user_activity
+CRITICAL FAILURE: Integrity module crashed mid-validation
+DEBUG: Audit log generated for failed export

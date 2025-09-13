@@ -1,0 +1,7 @@
+INFO: Monitoring agent heartbeat received at 2024-01-05 05:00:00
+WARNING: Memory usage exceeded threshold: 93%
+DEBUG: Memory pressure mitigation started
+ERROR: Connection refused while pinging internal metrics DB
+CRITICAL FAILURE: Metrics service unavailable for 3 minutes
+INFO: System health restored after reboot
+DEBUG: All services back online

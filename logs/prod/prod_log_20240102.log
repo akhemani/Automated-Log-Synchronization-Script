@@ -1,0 +1,7 @@
+INFO: User login: admin from IP 10.0.0.14
+DEBUG: Session token generated for user: admin
+WARNING: Unusual login time detected for user: admin
+ERROR: Connection refused during session validation
+INFO: Session timeout set to 30 minutes
+CRITICAL FAILURE: Authentication microservice failed to respond
+DEBUG: Failover triggered for login service

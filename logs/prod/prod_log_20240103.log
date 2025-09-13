@@ -1,0 +1,7 @@
+INFO: API job scheduler started at 2024-01-03 02:00:00
+DEBUG: API request to /v1/data timed out
+WARNING: API response time exceeded 500ms threshold
+ERROR: Connection refused when accessing external billing API
+INFO: Retrying API call to /v1/data (attempt 2)
+CRITICAL FAILURE: API handler crashed with exit code 139
+DEBUG: Logs flushed to archive

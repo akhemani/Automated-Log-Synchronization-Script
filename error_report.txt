@@ -1,0 +1,170 @@
+ERROR: Connection refused to database server at 192.168.10.5
+CRITICAL FAILURE: Backup process aborted unexpectedly at 2024-01-01 01:07:12
+ERROR: Connection refused during session validation
+CRITICAL FAILURE: Authentication microservice failed to respond
+ERROR: Connection refused when accessing external billing API
+CRITICAL FAILURE: API handler crashed with exit code 139
+ERROR: Data integrity check failed on table user_activity
+CRITICAL FAILURE: Integrity module crashed mid-validation
+ERROR: Connection refused while pinging internal metrics DB
+CRITICAL FAILURE: Metrics service unavailable for 3 minutes
+ERROR: Connection refused to database server at 192.168.10.5
+CRITICAL FAILURE: Backup process aborted unexpectedly at 2024-01-01 01:07:12
+ERROR: Connection refused during session validation
+CRITICAL FAILURE: Authentication microservice failed to respond
+ERROR: Connection refused when accessing external billing API
+CRITICAL FAILURE: API handler crashed with exit code 139
+ERROR: Data integrity check failed on table user_activity
+CRITICAL FAILURE: Integrity module crashed mid-validation
+ERROR: Connection refused while pinging internal metrics DB
+CRITICAL FAILURE: Metrics service unavailable for 3 minutes
+ERROR: Connection refused to database server at 192.168.10.5
+CRITICAL FAILURE: Backup process aborted unexpectedly at 2024-01-01 01:07:12
+ERROR: Connection refused during session validation
+CRITICAL FAILURE: Authentication microservice failed to respond
+ERROR: Connection refused when accessing external billing API
+CRITICAL FAILURE: API handler crashed with exit code 139
+ERROR: Data integrity check failed on table user_activity
+CRITICAL FAILURE: Integrity module crashed mid-validation
+ERROR: Connection refused while pinging internal metrics DB
+CRITICAL FAILURE: Metrics service unavailable for 3 minutes
+ERROR: Connection refused to database server at 192.168.10.5
+CRITICAL FAILURE: Backup process aborted unexpectedly at 2024-01-01 01:07:12
+ERROR: Connection refused during session validation
+CRITICAL FAILURE: Authentication microservice failed to respond
+ERROR: Connection refused when accessing external billing API
+CRITICAL FAILURE: API handler crashed with exit code 139
+ERROR: Data integrity check failed on table user_activity
+CRITICAL FAILURE: Integrity module crashed mid-validation
+ERROR: Connection refused while pinging internal metrics DB
+CRITICAL FAILURE: Metrics service unavailable for 3 minutes
+ERROR: Connection refused to database server at 192.168.10.5
+CRITICAL FAILURE: Backup process aborted unexpectedly at 2024-01-01 01:07:12
+ERROR: Connection refused during session validation
+CRITICAL FAILURE: Authentication microservice failed to respond
+ERROR: Connection refused when accessing external billing API
+CRITICAL FAILURE: API handler crashed with exit code 139
+ERROR: Data integrity check failed on table user_activity
+CRITICAL FAILURE: Integrity module crashed mid-validation
+ERROR: Connection refused while pinging internal metrics DB
+CRITICAL FAILURE: Metrics service unavailable for 3 minutes
+ERROR: Connection refused to database server at 192.168.10.5
+CRITICAL FAILURE: Backup process aborted unexpectedly at 2024-01-01 01:07:12
+ERROR: Connection refused during session validation
+CRITICAL FAILURE: Authentication microservice failed to respond
+ERROR: Connection refused when accessing external billing API
+CRITICAL FAILURE: API handler crashed with exit code 139
+ERROR: Data integrity check failed on table user_activity
+CRITICAL FAILURE: Integrity module crashed mid-validation
+ERROR: Connection refused while pinging internal metrics DB
+CRITICAL FAILURE: Metrics service unavailable for 3 minutes
+ERROR: Connection refused to database server at 192.168.10.5
+CRITICAL FAILURE: Backup process aborted unexpectedly at 2024-01-01 01:07:12
+ERROR: Connection refused during session validation
+CRITICAL FAILURE: Authentication microservice failed to respond
+ERROR: Connection refused when accessing external billing API
+CRITICAL FAILURE: API handler crashed with exit code 139
+ERROR: Data integrity check failed on table user_activity
+CRITICAL FAILURE: Integrity module crashed mid-validation
+ERROR: Connection refused while pinging internal metrics DB
+CRITICAL FAILURE: Metrics service unavailable for 3 minutes
+ERROR: Connection refused to database server at 192.168.10.5
+CRITICAL FAILURE: Backup process aborted unexpectedly at 2024-01-01 01:07:12
+ERROR: Connection refused during session validation
+CRITICAL FAILURE: Authentication microservice failed to respond
+ERROR: Connection refused when accessing external billing API
+CRITICAL FAILURE: API handler crashed with exit code 139
+ERROR: Data integrity check failed on table user_activity
+CRITICAL FAILURE: Integrity module crashed mid-validation
+ERROR: Connection refused while pinging internal metrics DB
+CRITICAL FAILURE: Metrics service unavailable for 3 minutes
+ERROR: Connection refused to database server at 192.168.10.5
+CRITICAL FAILURE: Backup process aborted unexpectedly at 2024-01-01 01:07:12
+ERROR: Connection refused during session validation
+CRITICAL FAILURE: Authentication microservice failed to respond
+ERROR: Connection refused when accessing external billing API
+CRITICAL FAILURE: API handler crashed with exit code 139
+ERROR: Data integrity check failed on table user_activity
+CRITICAL FAILURE: Integrity module crashed mid-validation
+ERROR: Connection refused while pinging internal metrics DB
+CRITICAL FAILURE: Metrics service unavailable for 3 minutes
+ERROR: Connection refused to database server at 192.168.10.5
+CRITICAL FAILURE: Backup process aborted unexpectedly at 2024-01-01 01:07:12
+ERROR: Connection refused during session validation
+CRITICAL FAILURE: Authentication microservice failed to respond
+ERROR: Connection refused when accessing external billing API
+CRITICAL FAILURE: API handler crashed with exit code 139
+ERROR: Data integrity check failed on table user_activity
+CRITICAL FAILURE: Integrity module crashed mid-validation
+ERROR: Connection refused while pinging internal metrics DB
+CRITICAL FAILURE: Metrics service unavailable for 3 minutes
+ERROR: Connection refused to database server at 192.168.10.5
+CRITICAL FAILURE: Backup process aborted unexpectedly at 2024-01-01 01:07:12
+ERROR: Connection refused during session validation
+CRITICAL FAILURE: Authentication microservice failed to respond
+ERROR: Connection refused when accessing external billing API
+CRITICAL FAILURE: API handler crashed with exit code 139
+ERROR: Data integrity check failed on table user_activity
+CRITICAL FAILURE: Integrity module crashed mid-validation
+ERROR: Connection refused while pinging internal metrics DB
+CRITICAL FAILURE: Metrics service unavailable for 3 minutes
+ERROR: Connection refused to database server at 192.168.10.5
+CRITICAL FAILURE: Backup process aborted unexpectedly at 2024-01-01 01:07:12
+ERROR: Connection refused during session validation
+CRITICAL FAILURE: Authentication microservice failed to respond
+ERROR: Connection refused when accessing external billing API
+CRITICAL FAILURE: API handler crashed with exit code 139
+ERROR: Data integrity check failed on table user_activity
+CRITICAL FAILURE: Integrity module crashed mid-validation
+ERROR: Connection refused while pinging internal metrics DB
+CRITICAL FAILURE: Metrics service unavailable for 3 minutes
+ERROR: Connection refused to database server at 192.168.10.5
+CRITICAL FAILURE: Backup process aborted unexpectedly at 2024-01-01 01:07:12
+ERROR: Connection refused during session validation
+CRITICAL FAILURE: Authentication microservice failed to respond
+ERROR: Connection refused when accessing external billing API
+CRITICAL FAILURE: API handler crashed with exit code 139
+ERROR: Data integrity check failed on table user_activity
+CRITICAL FAILURE: Integrity module crashed mid-validation
+ERROR: Connection refused while pinging internal metrics DB
+CRITICAL FAILURE: Metrics service unavailable for 3 minutes
+ERROR: Connection refused to database server at 192.168.10.5
+CRITICAL FAILURE: Backup process aborted unexpectedly at 2024-01-01 01:07:12
+ERROR: Connection refused during session validation
+CRITICAL FAILURE: Authentication microservice failed to respond
+ERROR: Connection refused when accessing external billing API
+CRITICAL FAILURE: API handler crashed with exit code 139
+ERROR: Data integrity check failed on table user_activity
+CRITICAL FAILURE: Integrity module crashed mid-validation
+ERROR: Connection refused while pinging internal metrics DB
+CRITICAL FAILURE: Metrics service unavailable for 3 minutes
+ERROR: Connection refused to database server at 192.168.10.5
+CRITICAL FAILURE: Backup process aborted unexpectedly at 2024-01-01 01:07:12
+ERROR: Connection refused during session validation
+CRITICAL FAILURE: Authentication microservice failed to respond
+ERROR: Connection refused when accessing external billing API
+CRITICAL FAILURE: API handler crashed with exit code 139
+ERROR: Data integrity check failed on table user_activity
+CRITICAL FAILURE: Integrity module crashed mid-validation
+ERROR: Connection refused while pinging internal metrics DB
+CRITICAL FAILURE: Metrics service unavailable for 3 minutes
+ERROR: Connection refused to database server at 192.168.10.5
+CRITICAL FAILURE: Backup process aborted unexpectedly at 2024-01-01 01:07:12
+ERROR: Connection refused during session validation
+CRITICAL FAILURE: Authentication microservice failed to respond
+ERROR: Connection refused when accessing external billing API
+CRITICAL FAILURE: API handler crashed with exit code 139
+ERROR: Data integrity check failed on table user_activity
+CRITICAL FAILURE: Integrity module crashed mid-validation
+ERROR: Connection refused while pinging internal metrics DB
+CRITICAL FAILURE: Metrics service unavailable for 3 minutes
+ERROR: Connection refused to database server at 192.168.10.5
+CRITICAL FAILURE: Backup process aborted unexpectedly at 2024-01-01 01:07:12
+ERROR: Connection refused during session validation
+CRITICAL FAILURE: Authentication microservice failed to respond
+ERROR: Connection refused when accessing external billing API
+CRITICAL FAILURE: API handler crashed with exit code 139
+ERROR: Data integrity check failed on table user_activity
+CRITICAL FAILURE: Integrity module crashed mid-validation
+ERROR: Connection refused while pinging internal metrics DB
+CRITICAL FAILURE: Metrics service unavailable for 3 minutes
