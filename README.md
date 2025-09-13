@@ -26,7 +26,7 @@ This repository contains a lightweight yet powerful Bash script designed to auto
 
 ```bash
 # Step 1: Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/your-username/your-repo-name.git](https://github.com/akhemani/Automated-Log-Synchronization-Script
 cd your-repo-name
 
 # Step 2: Make the Script Executable
